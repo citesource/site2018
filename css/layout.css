@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 /*----------------------------------------------------------------------
 
 	MASTER STYLESHEET
@@ -40,7 +40,7 @@ p {
   font-family: Hind, sans-serif;
   color: #a6a7aa;
   line-height: 1.4;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 
 em,
@@ -91,10 +91,10 @@ span {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
-  font-family: Hind, sans-serif;
+  font-family: myriad pro ;
   color: #515769;
-  line-height: 1.4;
-  margin: 0 0 15px;
+  line-height: 1.0;
+  margin: 0 0 10px;
 }
 
 h1 > a, h2 > a, h3 > a, h4 > a, h5 > a, h6 > a {
